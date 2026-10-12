@@ -1,5 +1,9 @@
 My Git & GitHub Journey
+<<<<<<< HEAD
 Day 2 - Learning Git Pull
 Learning Git Branches
 hello github 
 today i learned github push chanes
+=======
+Day 2 - Learning Git Pull
+>>>>>>> 298492a85236f251e5ebca7beab99c59a471c1e5
